@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "log_reg_driver.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
